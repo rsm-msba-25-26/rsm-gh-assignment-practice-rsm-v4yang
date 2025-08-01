@@ -7,7 +7,7 @@ This assignment provides some practice on how to complete individual assignments
 Clone the repo to your laptop using the commands below, after you replace `aaa111` with the first part of your @ucsd.edu email address. Run this code in a terminal in VS Code attached to the RSM-MSBA docker container:
 
 ```bash
-username="aaa111";
+username="v4yang";
 git clone git@github.com:rsm-msba-25-26/rsm-gh-assignment-practice-rsm-$username ~/git/rsm-gh-assignment-practice;
 ```
 
@@ -31,10 +31,10 @@ Provide the information requested below. Then (1) save this markdown (md) file, 
 
 Provide the information requested below:
 
-- Last name:
-- First (or preferred) name:
-- Favorite food:
-- Favorite recent Netflix movie or show:
+- Last name: Yang
+- First (or preferred) name: Vivian
+- Favorite food: Shushi
+- Favorite recent Netflix movie or show: Suits
 
 ---
 
