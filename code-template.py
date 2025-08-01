@@ -5,5 +5,5 @@ x = 5
 y = 7
 
 # TODO: Define z as the sum of x and y
-z = x + yyy  # <-- INTENTIONAL ERROR for CI testing
+z = x + y  # <-- INTENTIONAL ERROR for CI testing
 
